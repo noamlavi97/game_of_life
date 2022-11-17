@@ -1,4 +1,4 @@
-# Addition and subtraction using abstract classes
+# The game of life
 This is an assignment from the course 'Java advanced programing', 20554 at the Open University of Israel
 Assignment 11, Q2 (semester 2023A).
 
